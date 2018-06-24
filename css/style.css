@@ -525,6 +525,10 @@ header .navbar .cta-btn a:hover {
   .cta-link .heading {
     font-size: 30px;
   }
+
+  img.block-img {
+    height: 200px;
+  }
 }
 
 .cta-link:hover {
@@ -954,4 +958,8 @@ header .navbar .cta-btn a:hover {
 
 .section {
   padding : 5rem 0 !important;
+}
+
+img.block-img {
+  height: 300px;
 }
