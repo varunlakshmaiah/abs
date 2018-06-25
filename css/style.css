@@ -521,6 +521,19 @@ header .navbar .cta-btn a:hover {
   color: #392903;
 }
 
+.jumbo-custom {
+  margin-bottom: 0;
+}
+
+#gmap_canvas {
+  width: 100%;
+}
+
+.contact-title{
+  text-align: center;
+  margin: 30px 0;
+}
+
 @media (max-width: 991px) {
   .cta-link .heading {
     font-size: 30px;
