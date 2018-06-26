@@ -244,6 +244,19 @@ header .navbar .cta-btn a:hover {
   box-shadow: 0 1px 30px -4px rgba(0, 0, 0, 0.2);
 }
 
+.profile_img {
+  border-radius: 50%;
+  margin-bottom: 2rem;
+}
+
+.ourteam {
+  margin-bottom: 2rem;
+}
+
+.clientlogo {
+  margin-bottom: 1rem;
+}
+
 @media (max-width: 991px) {
   .cta-overlap .text {
     padding: 30px 15px;
